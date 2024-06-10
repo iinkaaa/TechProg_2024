@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App.qml</file>
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>RegistrPage.qml</file>
+        <file>GameLobby.qml</file>
+        <file>Game.qml</file>
+        <file>CardItem.qml</file>
+        <file>EnemyItem.qml</file>
+        <file>EndGame.qml</file>
+        <file>Leaderboard.qml</file>
+    </qresource>
+</RCC>
